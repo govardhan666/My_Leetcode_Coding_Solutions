@@ -36,6 +36,7 @@ A collection of LeetCode questions and answers that I solved using JAVA.
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/0264-ugly-number-ii) |
+| [0650-2-keys-keyboard](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/0650-2-keys-keyboard) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2067-maximum-number-of-points-with-cost) |
 ## Hash Table
 |  |
@@ -45,6 +46,7 @@ A collection of LeetCode questions and answers that I solved using JAVA.
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/0264-ugly-number-ii) |
+| [0650-2-keys-keyboard](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/0650-2-keys-keyboard) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
