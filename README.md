@@ -19,6 +19,7 @@ A collection of LeetCode questions and answers that I solved using JAVA.
 | [2132-convert-1d-array-into-2d-array](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2155-find-missing-observations) |
 | [2411-spiral-matrix-iv](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2411-spiral-matrix-iv) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Backtracking
 |  |
@@ -92,6 +93,7 @@ A collection of LeetCode questions and answers that I solved using JAVA.
 |  |
 | ------- |
 | [0476-number-complement](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/0476-number-complement) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Simulation
 |  |
 | ------- |
@@ -159,4 +161,8 @@ A collection of LeetCode questions and answers that I solved using JAVA.
 | [1484-linked-list-in-binary-tree](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/1484-linked-list-in-binary-tree) |
 | [2411-spiral-matrix-iv](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2411-spiral-matrix-iv) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+## Brainteaser
+|  |
+| ------- |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 <!---LeetCode Topics End-->
