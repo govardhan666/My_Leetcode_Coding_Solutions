@@ -86,6 +86,7 @@ A collection of LeetCode questions and answers that I solved using JAVA.
 ## String
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/0214-shortest-palindrome) |
 | [0564-find-the-closest-palindrome](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/0592-fraction-addition-and-subtraction) |
 | [0664-strange-printer](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/0664-strange-printer) |
@@ -171,4 +172,16 @@ A collection of LeetCode questions and answers that I solved using JAVA.
 |  |
 | ------- |
 | [0920-uncommon-words-from-two-sentences](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/0920-uncommon-words-from-two-sentences) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/0214-shortest-palindrome) |
+## String Matching
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/0214-shortest-palindrome) |
+## Hash Function
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
