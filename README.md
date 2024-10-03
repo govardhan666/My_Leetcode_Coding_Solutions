@@ -13,6 +13,7 @@ A collection of LeetCode questions and answers that I solved using JAVA.
 | [0890-lemonade-change](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/0890-lemonade-change) |
 | [1240-stone-game-ii](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/1240-stone-game-ii) |
 | [1325-path-with-maximum-probability](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/1325-path-with-maximum-probability) |
+| [1694-make-sum-divisible-by-p](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/1694-make-sum-divisible-by-p) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2035-count-sub-islands) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2067-maximum-number-of-points-with-cost) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions and answers that I solved using JAVA.
 | [0264-ugly-number-ii](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/0264-ugly-number-ii) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1694-make-sum-divisible-by-p](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/1694-make-sum-divisible-by-p) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Math
 |  |
@@ -78,6 +80,7 @@ A collection of LeetCode questions and answers that I solved using JAVA.
 |  |
 | ------- |
 | [1240-stone-game-ii](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/1240-stone-game-ii) |
+| [1694-make-sum-divisible-by-p](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/1694-make-sum-divisible-by-p) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Game Theory
 |  |
