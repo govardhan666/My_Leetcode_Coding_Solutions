@@ -29,6 +29,7 @@ A collection of LeetCode questions and answers that I solved using JAVA.
 ## Two Pointers
 |  |
 | ------- |
+| [0567-permutation-in-string](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/0567-permutation-in-string) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
 ## Binary Search
 |  |
@@ -57,6 +58,7 @@ A collection of LeetCode questions and answers that I solved using JAVA.
 | ------- |
 | [0001-two-sum](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/0001-two-sum) |
 | [0264-ugly-number-ii](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/0264-ugly-number-ii) |
+| [0567-permutation-in-string](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/0567-permutation-in-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1694-make-sum-divisible-by-p](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/1694-make-sum-divisible-by-p) |
@@ -91,6 +93,7 @@ A collection of LeetCode questions and answers that I solved using JAVA.
 | ------- |
 | [0214-shortest-palindrome](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/0214-shortest-palindrome) |
 | [0564-find-the-closest-palindrome](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/0564-find-the-closest-palindrome) |
+| [0567-permutation-in-string](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/0567-permutation-in-string) |
 | [0592-fraction-addition-and-subtraction](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/0592-fraction-addition-and-subtraction) |
 | [0664-strange-printer](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/0664-strange-printer) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -187,4 +190,8 @@ A collection of LeetCode questions and answers that I solved using JAVA.
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/0214-shortest-palindrome) |
+## Sliding Window
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
