@@ -22,6 +22,7 @@ A collection of LeetCode questions and answers that I solved using JAVA.
 | [2155-find-missing-observations](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2155-find-missing-observations) |
 | [2411-spiral-matrix-iv](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2411-spiral-matrix-iv) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2551-apply-operations-to-an-array](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2551-apply-operations-to-an-array) |
 | [3291-find-if-array-can-be-sorted](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/3291-find-if-array-can-be-sorted) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Backtracking
@@ -34,6 +35,7 @@ A collection of LeetCode questions and answers that I solved using JAVA.
 | [0567-permutation-in-string](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/0567-permutation-in-string) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1923-sentence-similarity-iii](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/1923-sentence-similarity-iii) |
+| [2551-apply-operations-to-an-array](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2551-apply-operations-to-an-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -121,6 +123,7 @@ A collection of LeetCode questions and answers that I solved using JAVA.
 | [2132-convert-1d-array-into-2d-array](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2155-find-missing-observations) |
 | [2411-spiral-matrix-iv](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2411-spiral-matrix-iv) |
+| [2551-apply-operations-to-an-array](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2551-apply-operations-to-an-array) |
 ## Stack
 |  |
 | ------- |
