@@ -20,6 +20,7 @@ A collection of LeetCode questions and answers that I solved using JAVA.
 | [2067-maximum-number-of-points-with-cost](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2155-find-missing-observations) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2411-spiral-matrix-iv](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2411-spiral-matrix-iv) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2551-apply-operations-to-an-array](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2551-apply-operations-to-an-array) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions and answers that I solved using JAVA.
 | [0567-permutation-in-string](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/0567-permutation-in-string) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1923-sentence-similarity-iii](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/1923-sentence-similarity-iii) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Binary Search
@@ -125,6 +127,7 @@ A collection of LeetCode questions and answers that I solved using JAVA.
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2155-find-missing-observations) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2411-spiral-matrix-iv](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2411-spiral-matrix-iv) |
 | [2551-apply-operations-to-an-array](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2551-apply-operations-to-an-array) |
 ## Stack
