@@ -82,6 +82,7 @@ A collection of LeetCode questions and answers that I solved using JAVA.
 | [0592-fraction-addition-and-subtraction](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/0592-fraction-addition-and-subtraction) |
 | [0650-2-keys-keyboard](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/0650-2-keys-keyboard) |
 | [1240-stone-game-ii](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/1240-stone-game-ii) |
+| [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2155-find-missing-observations](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2155-find-missing-observations) |
 ## Heap (Priority Queue)
 |  |
