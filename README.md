@@ -77,6 +77,7 @@ A collection of LeetCode questions and answers that I solved using JAVA.
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/0007-reverse-integer) |
 | [0264-ugly-number-ii](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/0264-ugly-number-ii) |
 | [0564-find-the-closest-palindrome](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/0592-fraction-addition-and-subtraction) |
