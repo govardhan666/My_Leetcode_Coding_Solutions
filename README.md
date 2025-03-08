@@ -117,6 +117,7 @@ A collection of LeetCode questions and answers that I solved using JAVA.
 | [0920-uncommon-words-from-two-sentences](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1923-sentence-similarity-iii](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/1923-sentence-similarity-iii) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3451-string-compression-iii](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/3451-string-compression-iii) |
 ## Bit Manipulation
@@ -220,4 +221,5 @@ A collection of LeetCode questions and answers that I solved using JAVA.
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/0567-permutation-in-string) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 <!---LeetCode Topics End-->
