@@ -30,6 +30,7 @@ A collection of LeetCode questions and answers that I solved using JAVA.
 | [3291-find-if-array-can-be-sorted](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/3291-find-if-array-can-be-sorted) |
 | [3483-alternating-groups-ii](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/3483-alternating-groups-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3643-zero-array-transformation-ii](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/3643-zero-array-transformation-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -49,6 +50,7 @@ A collection of LeetCode questions and answers that I solved using JAVA.
 | [0719-find-k-th-smallest-pair-distance](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3643-zero-array-transformation-ii](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/3643-zero-array-transformation-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -106,6 +108,7 @@ A collection of LeetCode questions and answers that I solved using JAVA.
 | [1240-stone-game-ii](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/1240-stone-game-ii) |
 | [1694-make-sum-divisible-by-p](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/1694-make-sum-divisible-by-p) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [3643-zero-array-transformation-ii](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/3643-zero-array-transformation-ii) |
 ## Game Theory
 |  |
 | ------- |
