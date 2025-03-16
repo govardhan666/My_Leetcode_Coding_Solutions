@@ -26,6 +26,7 @@ A collection of LeetCode questions and answers that I solved using JAVA.
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2551-apply-operations-to-an-array](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2551-apply-operations-to-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2665-minimum-time-to-repair-cars](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2690-house-robber-iv) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3227-find-missing-and-repeated-values](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/3227-find-missing-and-repeated-values) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions and answers that I solved using JAVA.
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2665-minimum-time-to-repair-cars](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2690-house-robber-iv) |
 | [3643-zero-array-transformation-ii](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/3643-zero-array-transformation-ii) |
 ## Sorting
