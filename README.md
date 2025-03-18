@@ -24,6 +24,7 @@ A collection of LeetCode questions and answers that I solved using JAVA.
 | [2265-partition-array-according-to-given-pivot](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2308-divide-array-into-equal-pairs](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2411-spiral-matrix-iv](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2411-spiral-matrix-iv) |
+| [2478-longest-nice-subarray](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2478-longest-nice-subarray) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2551-apply-operations-to-an-array](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2551-apply-operations-to-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions and answers that I solved using JAVA.
 | ------- |
 | [0476-number-complement](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/0476-number-complement) |
 | [2308-divide-array-into-equal-pairs](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2308-divide-array-into-equal-pairs) |
+| [2478-longest-nice-subarray](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2478-longest-nice-subarray) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [3291-find-if-array-can-be-sorted](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/3291-find-if-array-can-be-sorted) |
 ## Simulation
@@ -244,6 +246,7 @@ A collection of LeetCode questions and answers that I solved using JAVA.
 | [0567-permutation-in-string](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/0567-permutation-in-string) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2478-longest-nice-subarray](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2478-longest-nice-subarray) |
 | [3483-alternating-groups-ii](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/3483-alternating-groups-ii) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 <!---LeetCode Topics End-->
