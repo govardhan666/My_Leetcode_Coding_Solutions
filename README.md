@@ -33,6 +33,7 @@ A collection of LeetCode questions and answers that I solved using JAVA.
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3227-find-missing-and-repeated-values](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3291-find-if-array-can-be-sorted](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/3291-find-if-array-can-be-sorted) |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/3483-alternating-groups-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions and answers that I solved using JAVA.
 | [2478-longest-nice-subarray](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2478-longest-nice-subarray) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [3291-find-if-array-can-be-sorted](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/3291-find-if-array-can-be-sorted) |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Simulation
 |  |
@@ -195,6 +197,7 @@ A collection of LeetCode questions and answers that I solved using JAVA.
 | ------- |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [2035-count-sub-islands](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2035-count-sub-islands) |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Matrix
 |  |
 | ------- |
@@ -208,6 +211,7 @@ A collection of LeetCode questions and answers that I solved using JAVA.
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1325-path-with-maximum-probability](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/1325-path-with-maximum-probability) |
 | [2803-modify-graph-edge-weights](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2803-modify-graph-edge-weights) |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Shortest Path
 |  |
 | ------- |
