@@ -21,6 +21,7 @@ A collection of LeetCode questions and answers that I solved using JAVA.
 | [2067-maximum-number-of-points-with-cost](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2155-find-missing-observations) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2308-divide-array-into-equal-pairs](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2411-spiral-matrix-iv](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2411-spiral-matrix-iv) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions and answers that I solved using JAVA.
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1694-make-sum-divisible-by-p](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/1694-make-sum-divisible-by-p) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2308-divide-array-into-equal-pairs](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3227-find-missing-and-repeated-values](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/3227-find-missing-and-repeated-values) |
@@ -138,6 +140,7 @@ A collection of LeetCode questions and answers that I solved using JAVA.
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1923-sentence-similarity-iii](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/1923-sentence-similarity-iii) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3451-string-compression-iii](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/3451-string-compression-iii) |
@@ -210,6 +213,7 @@ A collection of LeetCode questions and answers that I solved using JAVA.
 | ------- |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1325-path-with-maximum-probability](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/1325-path-with-maximum-probability) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2803-modify-graph-edge-weights](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2803-modify-graph-edge-weights) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Shortest Path
@@ -261,4 +265,8 @@ A collection of LeetCode questions and answers that I solved using JAVA.
 |  |
 | ------- |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+## Topological Sort
+|  |
+| ------- |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 <!---LeetCode Topics End-->
