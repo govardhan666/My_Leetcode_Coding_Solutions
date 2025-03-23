@@ -80,6 +80,7 @@ A collection of LeetCode questions and answers that I solved using JAVA.
 | [0664-strange-printer](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/0664-strange-printer) |
 | [1240-stone-game-ii](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/1240-stone-game-ii) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2067-maximum-number-of-points-with-cost) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Hash Table
 |  |
 | ------- |
@@ -216,6 +217,7 @@ A collection of LeetCode questions and answers that I solved using JAVA.
 | ------- |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1325-path-with-maximum-probability](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/1325-path-with-maximum-probability) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2793-count-the-number-of-complete-components](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2793-count-the-number-of-complete-components) |
 | [2803-modify-graph-edge-weights](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2803-modify-graph-edge-weights) |
@@ -224,6 +226,7 @@ A collection of LeetCode questions and answers that I solved using JAVA.
 |  |
 | ------- |
 | [1325-path-with-maximum-probability](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/1325-path-with-maximum-probability) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2803-modify-graph-edge-weights](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2803-modify-graph-edge-weights) |
 ## Linked List
 |  |
@@ -272,5 +275,6 @@ A collection of LeetCode questions and answers that I solved using JAVA.
 ## Topological Sort
 |  |
 | ------- |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 <!---LeetCode Topics End-->
