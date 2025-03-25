@@ -39,6 +39,7 @@ A collection of LeetCode questions and answers that I solved using JAVA.
 | [3483-alternating-groups-ii](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/3483-alternating-groups-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3643-zero-array-transformation-ii](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/3643-zero-array-transformation-ii) |
+| [3657-check-if-grid-can-be-cut-into-sections](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Backtracking
 |  |
 | ------- |
@@ -67,6 +68,7 @@ A collection of LeetCode questions and answers that I solved using JAVA.
 | ------- |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [3291-find-if-array-can-be-sorted](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/3291-find-if-array-can-be-sorted) |
+| [3657-check-if-grid-can-be-cut-into-sections](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Greedy
 |  |
 | ------- |
