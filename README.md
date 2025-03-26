@@ -21,6 +21,7 @@ A collection of LeetCode questions and answers that I solved using JAVA.
 | [2067-maximum-number-of-points-with-cost](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2155-find-missing-observations) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2308-divide-array-into-equal-pairs](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2308-divide-array-into-equal-pairs) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions and answers that I solved using JAVA.
 |  |
 | ------- |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [3291-find-if-array-can-be-sorted](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/3291-find-if-array-can-be-sorted) |
 | [3430-count-days-without-meetings](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/3430-count-days-without-meetings) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions and answers that I solved using JAVA.
 | [1240-stone-game-ii](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/1240-stone-game-ii) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2155-find-missing-observations](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2155-find-missing-observations) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2649-count-total-number-of-colored-cells](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2649-count-total-number-of-colored-cells) |
 | [3227-find-missing-and-repeated-values](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/3227-find-missing-and-repeated-values) |
 ## Heap (Priority Queue)
@@ -214,6 +217,7 @@ A collection of LeetCode questions and answers that I solved using JAVA.
 | ------- |
 | [2035-count-sub-islands](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2035-count-sub-islands) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2411-spiral-matrix-iv](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2411-spiral-matrix-iv) |
 | [3227-find-missing-and-repeated-values](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/3227-find-missing-and-repeated-values) |
 ## Graph
