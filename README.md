@@ -29,6 +29,7 @@ A collection of LeetCode questions and answers that I solved using JAVA.
 | [2478-longest-nice-subarray](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2478-longest-nice-subarray) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2551-apply-operations-to-an-array](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2551-apply-operations-to-an-array) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2690-house-robber-iv) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions and answers that I solved using JAVA.
 | [1923-sentence-similarity-iii](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/1923-sentence-similarity-iii) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2551-apply-operations-to-an-array) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Binary Search
 |  |
@@ -71,6 +73,7 @@ A collection of LeetCode questions and answers that I solved using JAVA.
 | ------- |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3291-find-if-array-can-be-sorted](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/3291-find-if-array-can-be-sorted) |
 | [3430-count-days-without-meetings](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/3430-count-days-without-meetings) |
@@ -125,6 +128,7 @@ A collection of LeetCode questions and answers that I solved using JAVA.
 | ------- |
 | [0264-ugly-number-ii](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/0264-ugly-number-ii) |
 | [1325-path-with-maximum-probability](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/1325-path-with-maximum-probability) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2803-modify-graph-edge-weights](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2803-modify-graph-edge-weights) |
 ## Prefix Sum
 |  |
@@ -207,12 +211,14 @@ A collection of LeetCode questions and answers that I solved using JAVA.
 | ------- |
 | [1484-linked-list-in-binary-tree](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/1484-linked-list-in-binary-tree) |
 | [2035-count-sub-islands](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2035-count-sub-islands) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2793-count-the-number-of-complete-components](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2793-count-the-number-of-complete-components) |
 ## Union Find
 |  |
 | ------- |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [2035-count-sub-islands](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2035-count-sub-islands) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2793-count-the-number-of-complete-components](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Matrix
@@ -222,6 +228,7 @@ A collection of LeetCode questions and answers that I solved using JAVA.
 | [2132-convert-1d-array-into-2d-array](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2411-spiral-matrix-iv](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2411-spiral-matrix-iv) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [3227-find-missing-and-repeated-values](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/3227-find-missing-and-repeated-values) |
 ## Graph
 |  |
