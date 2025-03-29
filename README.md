@@ -35,6 +35,7 @@ A collection of LeetCode questions and answers that I solved using JAVA.
 | [2690-house-robber-iv](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2690-house-robber-iv) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3001-apply-operations-to-maximize-score](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/3001-apply-operations-to-maximize-score) |
 | [3227-find-missing-and-repeated-values](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3291-find-if-array-can-be-sorted](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/3291-find-if-array-can-be-sorted) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions and answers that I solved using JAVA.
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3001-apply-operations-to-maximize-score](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/3001-apply-operations-to-maximize-score) |
 | [3291-find-if-array-can-be-sorted](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/3291-find-if-array-can-be-sorted) |
 | [3430-count-days-without-meetings](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/3430-count-days-without-meetings) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
@@ -83,6 +85,7 @@ A collection of LeetCode questions and answers that I solved using JAVA.
 | ------- |
 | [0624-maximum-distance-in-arrays](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/0624-maximum-distance-in-arrays) |
 | [0890-lemonade-change](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/0890-lemonade-change) |
+| [3001-apply-operations-to-maximize-score](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/3001-apply-operations-to-maximize-score) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -122,6 +125,7 @@ A collection of LeetCode questions and answers that I solved using JAVA.
 | [2155-find-missing-observations](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2155-find-missing-observations) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2649-count-total-number-of-colored-cells](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2649-count-total-number-of-colored-cells) |
+| [3001-apply-operations-to-maximize-score](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/3001-apply-operations-to-maximize-score) |
 | [3227-find-missing-and-repeated-values](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/3227-find-missing-and-repeated-values) |
 ## Heap (Priority Queue)
 |  |
@@ -186,6 +190,7 @@ A collection of LeetCode questions and answers that I solved using JAVA.
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [3001-apply-operations-to-maximize-score](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/3001-apply-operations-to-maximize-score) |
 ## Tree
 |  |
 | ------- |
@@ -295,4 +300,12 @@ A collection of LeetCode questions and answers that I solved using JAVA.
 | ------- |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+## Monotonic Stack
+|  |
+| ------- |
+| [3001-apply-operations-to-maximize-score](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/3001-apply-operations-to-maximize-score) |
+## Number Theory
+|  |
+| ------- |
+| [3001-apply-operations-to-maximize-score](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/3001-apply-operations-to-maximize-score) |
 <!---LeetCode Topics End-->
