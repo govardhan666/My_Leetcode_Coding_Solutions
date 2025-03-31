@@ -32,6 +32,7 @@ A collection of LeetCode questions and answers that I solved using JAVA.
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2665-minimum-time-to-repair-cars) |
+| [2681-put-marbles-in-bags](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2681-put-marbles-in-bags) |
 | [2690-house-robber-iv](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2690-house-robber-iv) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2888-minimum-index-of-a-valid-split) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions and answers that I solved using JAVA.
 | [0719-find-k-th-smallest-pair-distance](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+| [2681-put-marbles-in-bags](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2681-put-marbles-in-bags) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3001-apply-operations-to-maximize-score](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/3001-apply-operations-to-maximize-score) |
 | [3291-find-if-array-can-be-sorted](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/3291-find-if-array-can-be-sorted) |
@@ -87,6 +89,7 @@ A collection of LeetCode questions and answers that I solved using JAVA.
 | [0624-maximum-distance-in-arrays](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/0624-maximum-distance-in-arrays) |
 | [0768-partition-labels](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/0768-partition-labels) |
 | [0890-lemonade-change](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/0890-lemonade-change) |
+| [2681-put-marbles-in-bags](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2681-put-marbles-in-bags) |
 | [3001-apply-operations-to-maximize-score](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/3001-apply-operations-to-maximize-score) |
 ## Dynamic Programming
 |  |
@@ -136,6 +139,7 @@ A collection of LeetCode questions and answers that I solved using JAVA.
 | [0264-ugly-number-ii](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/0264-ugly-number-ii) |
 | [1325-path-with-maximum-probability](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/1325-path-with-maximum-probability) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+| [2681-put-marbles-in-bags](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2681-put-marbles-in-bags) |
 | [2803-modify-graph-edge-weights](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2803-modify-graph-edge-weights) |
 ## Prefix Sum
 |  |
