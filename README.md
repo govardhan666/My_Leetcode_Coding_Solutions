@@ -186,6 +186,7 @@ A collection of LeetCode questions and answers that I solved using JAVA.
 ## String
 |  |
 | ------- |
+| [0038-count-and-say](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/0038-count-and-say) |
 | [0214-shortest-palindrome](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/0214-shortest-palindrome) |
 | [0564-find-the-closest-palindrome](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/0564-find-the-closest-palindrome) |
 | [0567-permutation-in-string](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/0567-permutation-in-string) |
