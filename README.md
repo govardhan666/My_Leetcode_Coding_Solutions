@@ -12,6 +12,7 @@ A collection of LeetCode questions and answers that I solved using JAVA.
 | [0416-partition-equal-subset-sum](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0624-maximum-distance-in-arrays](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/0624-maximum-distance-in-arrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0797-rabbits-in-forest](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/0797-rabbits-in-forest) |
 | [0890-lemonade-change](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/0890-lemonade-change) |
 | [1240-stone-game-ii](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/1240-stone-game-ii) |
 | [1325-path-with-maximum-probability](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/1325-path-with-maximum-probability) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions and answers that I solved using JAVA.
 | ------- |
 | [0624-maximum-distance-in-arrays](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/0624-maximum-distance-in-arrays) |
 | [0768-partition-labels](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/0768-partition-labels) |
+| [0797-rabbits-in-forest](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/0797-rabbits-in-forest) |
 | [0890-lemonade-change](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/0890-lemonade-change) |
 | [2681-put-marbles-in-bags](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2681-put-marbles-in-bags) |
 | [3001-apply-operations-to-maximize-score](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/3001-apply-operations-to-maximize-score) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions and answers that I solved using JAVA.
 | [0264-ugly-number-ii](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/0264-ugly-number-ii) |
 | [0567-permutation-in-string](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/0567-permutation-in-string) |
 | [0768-partition-labels](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/0768-partition-labels) |
+| [0797-rabbits-in-forest](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/0797-rabbits-in-forest) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -155,6 +158,7 @@ A collection of LeetCode questions and answers that I solved using JAVA.
 | [0564-find-the-closest-palindrome](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/0592-fraction-addition-and-subtraction) |
 | [0650-2-keys-keyboard](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/0650-2-keys-keyboard) |
+| [0797-rabbits-in-forest](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/0797-rabbits-in-forest) |
 | [1240-stone-game-ii](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/1240-stone-game-ii) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
