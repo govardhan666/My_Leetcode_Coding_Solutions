@@ -125,6 +125,7 @@ A collection of LeetCode questions and answers that I solved using JAVA.
 | [2067-maximum-number-of-points-with-cost](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2262-solving-questions-with-brainpower](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2262-solving-questions-with-brainpower) |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Hash Table
 |  |
@@ -166,6 +167,7 @@ A collection of LeetCode questions and answers that I solved using JAVA.
 | [2050-count-good-numbers](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2050-count-good-numbers) |
 | [2155-find-missing-observations](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2155-find-missing-observations) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2649-count-total-number-of-colored-cells](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2649-count-total-number-of-colored-cells) |
 | [2998-count-symmetric-integers](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2998-count-symmetric-integers) |
 | [3001-apply-operations-to-maximize-score](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/3001-apply-operations-to-maximize-score) |
@@ -363,11 +365,13 @@ A collection of LeetCode questions and answers that I solved using JAVA.
 ## Number Theory
 |  |
 | ------- |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3001-apply-operations-to-maximize-score](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/3001-apply-operations-to-maximize-score) |
 ## Combinatorics
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3548-find-the-count-of-good-integers](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/3548-find-the-count-of-good-integers) |
 ## Enumeration
 |  |
