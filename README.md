@@ -139,6 +139,7 @@ A collection of LeetCode questions and answers that I solved using JAVA.
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1500-count-largest-group](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/1500-count-largest-group) |
 | [1694-make-sum-divisible-by-p](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/1694-make-sum-divisible-by-p) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2308-divide-array-into-equal-pairs](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2308-divide-array-into-equal-pairs) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions and answers that I solved using JAVA.
 | [0650-2-keys-keyboard](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/0650-2-keys-keyboard) |
 | [0797-rabbits-in-forest](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/0797-rabbits-in-forest) |
 | [1240-stone-game-ii](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/1240-stone-game-ii) |
+| [1500-count-largest-group](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/1500-count-largest-group) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2050-count-good-numbers) |
