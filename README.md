@@ -80,6 +80,7 @@ A collection of LeetCode questions and answers that I solved using JAVA.
 | [0567-permutation-in-string](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/0567-permutation-in-string) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0768-partition-labels](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/0768-partition-labels) |
+| [0868-push-dominoes](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/0868-push-dominoes) |
 | [1923-sentence-similarity-iii](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/1923-sentence-similarity-iii) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2551-apply-operations-to-an-array) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions and answers that I solved using JAVA.
 | [0416-partition-equal-subset-sum](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0650-2-keys-keyboard](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/0664-strange-printer) |
+| [0868-push-dominoes](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/0868-push-dominoes) |
 | [1240-stone-game-ii](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/1240-stone-game-ii) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
@@ -225,6 +227,7 @@ A collection of LeetCode questions and answers that I solved using JAVA.
 | [0664-strange-printer](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/0664-strange-printer) |
 | [0768-partition-labels](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/0768-partition-labels) |
 | [0812-rotate-string](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/0812-rotate-string) |
+| [0868-push-dominoes](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/0868-push-dominoes) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1923-sentence-similarity-iii](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/1923-sentence-similarity-iii) |
