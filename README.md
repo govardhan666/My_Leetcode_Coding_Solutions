@@ -139,6 +139,7 @@ A collection of LeetCode questions and answers that I solved using JAVA.
 | [0416-partition-equal-subset-sum](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0650-2-keys-keyboard](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/0664-strange-printer) |
+| [0806-domino-and-tromino-tiling](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/0868-push-dominoes) |
 | [1240-stone-game-ii](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/1240-stone-game-ii) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2067-maximum-number-of-points-with-cost) |
