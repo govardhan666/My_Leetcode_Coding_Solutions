@@ -148,6 +148,7 @@ A collection of LeetCode questions and answers that I solved using JAVA.
 | [2262-solving-questions-with-brainpower](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2262-solving-questions-with-brainpower) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3637-count-number-of-balanced-permutations](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/3637-count-number-of-balanced-permutations) |
 ## Hash Table
 |  |
 | ------- |
@@ -201,6 +202,7 @@ A collection of LeetCode questions and answers that I solved using JAVA.
 | [3227-find-missing-and-repeated-values](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3548-find-the-count-of-good-integers](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/3548-find-the-count-of-good-integers) |
+| [3637-count-number-of-balanced-permutations](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/3637-count-number-of-balanced-permutations) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -248,6 +250,7 @@ A collection of LeetCode questions and answers that I solved using JAVA.
 | [3243-count-the-number-of-powerful-integers](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3451-string-compression-iii](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/3451-string-compression-iii) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3637-count-number-of-balanced-permutations](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/3637-count-number-of-balanced-permutations) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -419,6 +422,7 @@ A collection of LeetCode questions and answers that I solved using JAVA.
 | [1993-sum-of-all-subset-xor-totals](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3548-find-the-count-of-good-integers](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/3548-find-the-count-of-good-integers) |
+| [3637-count-number-of-balanced-permutations](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/3637-count-number-of-balanced-permutations) |
 ## Enumeration
 |  |
 | ------- |
