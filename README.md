@@ -59,6 +59,7 @@ A collection of LeetCode questions and answers that I solved using JAVA.
 | [3001-apply-operations-to-maximize-score](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/3001-apply-operations-to-maximize-score) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
+| [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3227-find-missing-and-repeated-values](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3291-find-if-array-can-be-sorted](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/3291-find-if-array-can-be-sorted) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions and answers that I solved using JAVA.
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2681-put-marbles-in-bags](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2681-put-marbles-in-bags) |
 | [3001-apply-operations-to-maximize-score](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/3001-apply-operations-to-maximize-score) |
+| [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 ## Dynamic Programming
 |  |
 | ------- |
