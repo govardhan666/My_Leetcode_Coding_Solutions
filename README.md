@@ -17,6 +17,7 @@ A collection of LeetCode questions and answers that I solved using JAVA.
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1240-stone-game-ii](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/1240-stone-game-ii) |
+| [1293-three-consecutive-odds](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/1293-three-consecutive-odds) |
 | [1325-path-with-maximum-probability](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/1325-path-with-maximum-probability) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
