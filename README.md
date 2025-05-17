@@ -8,6 +8,7 @@ A collection of LeetCode questions and answers that I solved using JAVA.
 | ------- |
 | [0001-two-sum](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/0001-two-sum) |
 | [0040-combination-sum-ii](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/0040-combination-sum-ii) |
+| [0075-sort-colors](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/0075-sort-colors) |
 | [0368-largest-divisible-subset](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0624-maximum-distance-in-arrays](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/0624-maximum-distance-in-arrays) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions and answers that I solved using JAVA.
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/0075-sort-colors) |
 | [0567-permutation-in-string](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/0567-permutation-in-string) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0768-partition-labels](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/0768-partition-labels) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions and answers that I solved using JAVA.
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/0075-sort-colors) |
 | [0368-largest-divisible-subset](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/0368-largest-divisible-subset) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
