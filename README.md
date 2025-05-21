@@ -8,6 +8,7 @@ A collection of LeetCode questions and answers that I solved using JAVA.
 | ------- |
 | [0001-two-sum](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/0001-two-sum) |
 | [0040-combination-sum-ii](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/0040-combination-sum-ii) |
+| [0073-set-matrix-zeroes](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/0075-sort-colors) |
 | [0368-largest-divisible-subset](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/0416-partition-equal-subset-sum) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions and answers that I solved using JAVA.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0264-ugly-number-ii](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/0264-ugly-number-ii) |
 | [0567-permutation-in-string](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/0567-permutation-in-string) |
 | [0768-partition-labels](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/0768-partition-labels) |
@@ -352,6 +354,7 @@ A collection of LeetCode questions and answers that I solved using JAVA.
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/0073-set-matrix-zeroes) |
 | [2035-count-sub-islands](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2035-count-sub-islands) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
