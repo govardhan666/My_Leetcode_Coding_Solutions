@@ -167,6 +167,7 @@ A collection of LeetCode questions and answers that I solved using JAVA.
 | [0806-domino-and-tromino-tiling](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/0868-push-dominoes) |
 | [1240-stone-game-ii](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/1240-stone-game-ii) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions and answers that I solved using JAVA.
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1500-count-largest-group](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/1500-count-largest-group) |
 | [1694-make-sum-divisible-by-p](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/1694-make-sum-divisible-by-p) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2215-finding-3-digit-even-numbers](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -385,6 +387,7 @@ A collection of LeetCode questions and answers that I solved using JAVA.
 | ------- |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1325-path-with-maximum-probability](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/1325-path-with-maximum-probability) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2793-count-the-number-of-complete-components](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2793-count-the-number-of-complete-components) |
@@ -416,6 +419,7 @@ A collection of LeetCode questions and answers that I solved using JAVA.
 | ------- |
 | [0920-uncommon-words-from-two-sentences](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2308-divide-array-into-equal-pairs](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -458,6 +462,7 @@ A collection of LeetCode questions and answers that I solved using JAVA.
 ## Topological Sort
 |  |
 | ------- |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 ## Monotonic Stack
@@ -513,4 +518,8 @@ A collection of LeetCode questions and answers that I solved using JAVA.
 | ------- |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2527-count-subarrays-with-fixed-bounds) |
+## Memoization
+|  |
+| ------- |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 <!---LeetCode Topics End-->
