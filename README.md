@@ -340,6 +340,7 @@ A collection of LeetCode questions and answers that I solved using JAVA.
 | [1484-linked-list-in-binary-tree](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/1484-linked-list-in-binary-tree) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
+| [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -351,6 +352,7 @@ A collection of LeetCode questions and answers that I solved using JAVA.
 | [2035-count-sub-islands](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2035-count-sub-islands) |
 | [2793-count-the-number-of-complete-components](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2793-count-the-number-of-complete-components) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
+| [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Binary Tree
 |  |
 | ------- |
@@ -366,6 +368,7 @@ A collection of LeetCode questions and answers that I solved using JAVA.
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2793-count-the-number-of-complete-components](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2793-count-the-number-of-complete-components) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
+| [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Union Find
 |  |
 | ------- |
