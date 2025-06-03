@@ -24,6 +24,7 @@ A collection of LeetCode questions and answers that I solved using JAVA.
 | [1325-path-with-maximum-probability](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/1325-path-with-maximum-probability) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1656-count-good-triplets](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/1656-count-good-triplets) |
 | [1694-make-sum-divisible-by-p](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/1694-make-sum-divisible-by-p) |
 | [1923-sentence-similarity-iii](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/1923-sentence-similarity-iii) |
@@ -367,6 +368,7 @@ A collection of LeetCode questions and answers that I solved using JAVA.
 | ------- |
 | [0945-snakes-and-ladders](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/0945-snakes-and-ladders) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1484-linked-list-in-binary-tree](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/1484-linked-list-in-binary-tree) |
 | [2035-count-sub-islands](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2035-count-sub-islands) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -399,6 +401,7 @@ A collection of LeetCode questions and answers that I solved using JAVA.
 | ------- |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1325-path-with-maximum-probability](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/1325-path-with-maximum-probability) |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
