@@ -153,6 +153,7 @@ A collection of LeetCode questions and answers that I solved using JAVA.
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2681-put-marbles-in-bags](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2681-put-marbles-in-bags) |
 | [3001-apply-operations-to-maximize-score](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/3001-apply-operations-to-maximize-score) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions and answers that I solved using JAVA.
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2308-divide-array-into-equal-pairs](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2308-divide-array-into-equal-pairs) |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2856-count-complete-subarrays-in-an-array) |
@@ -296,6 +298,7 @@ A collection of LeetCode questions and answers that I solved using JAVA.
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
@@ -336,6 +339,7 @@ A collection of LeetCode questions and answers that I solved using JAVA.
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3001-apply-operations-to-maximize-score](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/3001-apply-operations-to-maximize-score) |
 ## Tree
 |  |
