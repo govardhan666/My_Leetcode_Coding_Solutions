@@ -34,6 +34,7 @@ A collection of LeetCode questions and answers that I solved using JAVA.
 | [2048-build-array-from-permutation](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2048-build-array-from-permutation) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2144-maximum-difference-between-increasing-elements](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2155-find-missing-observations](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2155-find-missing-observations) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
