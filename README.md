@@ -144,6 +144,7 @@ A collection of LeetCode questions and answers that I solved using JAVA.
 | [3291-find-if-array-can-be-sorted](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/3291-find-if-array-can-be-sorted) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/3321-type-of-triangle) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3430-count-days-without-meetings](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/3430-count-days-without-meetings) |
 | [3647-zero-array-transformation-iii](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/3647-zero-array-transformation-iii) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions and answers that I solved using JAVA.
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3647-zero-array-transformation-iii](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/3647-zero-array-transformation-iii) |
 ## Dynamic Programming
 |  |
@@ -219,6 +221,7 @@ A collection of LeetCode questions and answers that I solved using JAVA.
 | [2888-minimum-index-of-a-valid-split](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2915-count-of-interesting-subarrays](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2915-count-of-interesting-subarrays) |
 | [3227-find-missing-and-repeated-values](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/3227-find-missing-and-repeated-values) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3548-find-the-count-of-good-integers](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/3548-find-the-count-of-good-integers) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
@@ -318,6 +321,7 @@ A collection of LeetCode questions and answers that I solved using JAVA.
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3194-find-words-containing-character](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/3194-find-words-containing-character) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3451-string-compression-iii](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/3451-string-compression-iii) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -465,6 +469,7 @@ A collection of LeetCode questions and answers that I solved using JAVA.
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2308-divide-array-into-equal-pairs](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
