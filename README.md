@@ -250,6 +250,7 @@ A collection of LeetCode questions and answers that I solved using JAVA.
 | [2050-count-good-numbers](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2050-count-good-numbers) |
 | [2155-find-missing-observations](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2155-find-missing-observations) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2202-sum-of-k-mirror-numbers](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2649-count-total-number-of-colored-cells](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2649-count-total-number-of-colored-cells) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2704-maximum-difference-by-remapping-a-digit) |
@@ -540,6 +541,7 @@ A collection of LeetCode questions and answers that I solved using JAVA.
 | ------- |
 | [1656-count-good-triplets](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2202-sum-of-k-mirror-numbers](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2215-finding-3-digit-even-numbers](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2998-count-symmetric-integers](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2998-count-symmetric-integers) |
 | [3201-distribute-candies-among-children-ii](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/3201-distribute-candies-among-children-ii) |
