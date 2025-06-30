@@ -12,6 +12,7 @@ A collection of LeetCode questions and answers that I solved using JAVA.
 | [0075-sort-colors](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/0075-sort-colors) |
 | [0368-largest-divisible-subset](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/0416-partition-equal-subset-sum) |
+| [0594-longest-harmonious-subsequence](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0624-maximum-distance-in-arrays](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/0624-maximum-distance-in-arrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0797-rabbits-in-forest](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/0797-rabbits-in-forest) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions and answers that I solved using JAVA.
 | ------- |
 | [0075-sort-colors](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/0075-sort-colors) |
 | [0368-largest-divisible-subset](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/0368-largest-divisible-subset) |
+| [0594-longest-harmonious-subsequence](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -214,6 +216,7 @@ A collection of LeetCode questions and answers that I solved using JAVA.
 | [0073-set-matrix-zeroes](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0264-ugly-number-ii](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/0264-ugly-number-ii) |
 | [0567-permutation-in-string](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/0567-permutation-in-string) |
+| [0594-longest-harmonious-subsequence](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0768-partition-labels](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/0797-rabbits-in-forest) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -484,6 +487,7 @@ A collection of LeetCode questions and answers that I solved using JAVA.
 ## Counting
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/1986-largest-color-value-in-a-directed-graph) |
@@ -513,6 +517,7 @@ A collection of LeetCode questions and answers that I solved using JAVA.
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/0567-permutation-in-string) |
+| [0594-longest-harmonious-subsequence](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
