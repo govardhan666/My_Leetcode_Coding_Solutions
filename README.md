@@ -26,6 +26,7 @@ A collection of LeetCode questions and answers that I solved using JAVA.
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1656-count-good-triplets](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/1656-count-good-triplets) |
 | [1694-make-sum-divisible-by-p](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/1694-make-sum-divisible-by-p) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions and answers that I solved using JAVA.
 | [1227-number-of-equivalent-domino-pairs](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1500-count-largest-group](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/1500-count-largest-group) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1694-make-sum-divisible-by-p](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/1694-make-sum-divisible-by-p) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -499,6 +501,7 @@ A collection of LeetCode questions and answers that I solved using JAVA.
 | [0594-longest-harmonious-subsequence](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
