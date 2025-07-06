@@ -32,6 +32,7 @@ A collection of LeetCode questions and answers that I solved using JAVA.
 | [1694-make-sum-divisible-by-p](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/1694-make-sum-divisible-by-p) |
 | [1923-sentence-similarity-iii](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/1923-sentence-similarity-iii) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2035-count-sub-islands) |
 | [2048-build-array-from-permutation](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2048-build-array-from-permutation) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions and answers that I solved using JAVA.
 | [1510-find-lucky-integer-in-an-array](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1694-make-sum-divisible-by-p](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/1694-make-sum-divisible-by-p) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -626,4 +628,8 @@ A collection of LeetCode questions and answers that I solved using JAVA.
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+## Design
+|  |
+| ------- |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 <!---LeetCode Topics End-->
