@@ -372,6 +372,7 @@ A collection of LeetCode questions and answers that I solved using JAVA.
 | [3194-find-words-containing-character](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/3194-find-words-containing-character) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3396-valid-word](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/3396-valid-word) |
 | [3451-string-compression-iii](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/3451-string-compression-iii) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3617-find-the-original-typed-string-i](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/3617-find-the-original-typed-string-i) |
