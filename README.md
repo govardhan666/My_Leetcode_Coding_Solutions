@@ -24,6 +24,7 @@ A collection of LeetCode questions and answers that I solved using JAVA.
 | [1293-three-consecutive-odds](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/1293-three-consecutive-odds) |
 | [1325-path-with-maximum-probability](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/1325-path-with-maximum-probability) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -361,6 +362,7 @@ A collection of LeetCode questions and answers that I solved using JAVA.
 | [0868-push-dominoes](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/0868-push-dominoes) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/1058-lexicographically-smallest-equivalent-string) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1923-sentence-similarity-iii](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/1923-sentence-similarity-iii) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2076-sum-of-digits-of-string-after-convert) |
@@ -443,6 +445,7 @@ A collection of LeetCode questions and answers that I solved using JAVA.
 | [0776-n-ary-tree-postorder-traversal](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1484-linked-list-in-binary-tree](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/1484-linked-list-in-binary-tree) |
 | [2035-count-sub-islands](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2035-count-sub-islands) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/2438-find-closest-node-to-given-two-nodes) |
@@ -656,6 +659,7 @@ A collection of LeetCode questions and answers that I solved using JAVA.
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/govardhan666/My_Leetcode_Coding_Solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 ## Design
 |  |
 | ------- |
